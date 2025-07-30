@@ -1,0 +1,2 @@
+import{Commands as e,subsetToBinary as r}from"./subset-shared.chunk-DGOUEtGR.js";import"./percentages-BXMCSKIN-DFDhg1F9.js";import"./index-CHAxwLpS.js";import"./Button-CksmhZ05.js";import"./ImageResizer-ingUy0R4.js";var p=import.meta.url?new URL(import.meta.url):void 0;typeof window>"u"&&typeof self<"u"&&(self.onmessage=async a=>{switch(a.data.command){case e.Subset:let t=await r(a.data.arrayBuffer,a.data.codePoints);self.postMessage(t,{transfer:[t]});break}});export{p as WorkerUrl};
+//# sourceMappingURL=subset-worker.chunk-zWLMZxbZ.js.map

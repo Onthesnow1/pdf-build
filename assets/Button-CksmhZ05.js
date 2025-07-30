@@ -1,0 +1,2 @@
+import{j as e}from"./index-CHAxwLpS.js";function i(...t){return t.filter(Boolean).join(" ")}function j({"data-test-id":t,children:a,className:s,onClick:r,disabled:o,small:u,title:n}){return e.jsx("button",{disabled:o,className:i("Button__root",o&&"Button__disabled",u&&"Button__small",s),onClick:r,title:n,"aria-label":n,...t&&{"data-test-id":t},children:a})}export{j as B,i as j};
+//# sourceMappingURL=Button-CksmhZ05.js.map
